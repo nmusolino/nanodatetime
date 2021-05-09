@@ -1,6 +1,5 @@
 
 from nanodatetime import longest
-from nanodatetime import main
 
 
 def test_main():
