@@ -6,6 +6,9 @@ Datetime library with nanosecond resolution.
 
 * Free software: GNU Lesser General Public License v3 (LGPLv3)
 
+.. image:: https://github.com/nmusolino/nanodatetime/actions/workflows/python-test.yml/badge.svg?event=push
+    :target: https://github.com/nmusolino/nanodatetime/actions/workflows/python-test.yml?query=branch%3Amain
+
 
 Documentation
 =============
