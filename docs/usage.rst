@@ -1,7 +1,6 @@
-=====
 Usage
 =====
 
-To use Nanodatetime for Python in a project::
-
-	import nanodatetime
+.. click:: nanodatetime.__main__:main
+   :prog: nanodatetime
+   :nested: full

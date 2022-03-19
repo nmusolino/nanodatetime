@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Nicholas Musolino",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "n.musolino@gmail.com",
+  "friendly_name": "Nanodatetime",
+  "github_user": "nmusolino",
+  "license": "GPL-3.0",
+  "package_name": "nanodatetime",
+  "project_name": "nanodatetime",
+  "version": "0.0.0"
+}
